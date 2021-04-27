@@ -20,9 +20,9 @@ Date_table was used to retrieve dates about the performances of the sales throug
 
 Sales_table, product_table and customer_table show information about sales, products and customers in that order
 
-You can see all the SQL queries **[HERE](https://github.com/Roberto121c/Sales_Magement)**:
+You can see all the SQL queries **[HERE](https://github.com/Roberto121c/Sales_Management/tree/main/Query)**:
 
-![](images/Sales query.PNG)
+[![](images/Sales query.PNG)](https://github.com/Roberto121c/Sales_Management/tree/main/Query)
 
 ### Data model:
 You can see in this image the data model used in Power BI after the data was extracted
