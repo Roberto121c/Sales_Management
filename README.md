@@ -22,7 +22,7 @@ Sales_table, product_table and customer_table show information about sales, prod
 
 You can see all the SQL queries **[HERE](https://github.com/Roberto121c/Sales_Magement)**:
 
-![](/image.jpg)
+![](/images/Data model.png)
 
 ![](https://github.com/Roberto121c/Sales_Magement/blob/46bd7dddc24a5296182572a02cd36c7d32b1fa57/Sales%20query.PNG)
 
