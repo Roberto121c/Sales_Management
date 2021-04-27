@@ -25,7 +25,11 @@ You can see the SQL queries here:
 ### Data model:
 You can see in this image the data model used in Power BI after the data was extracted
 
+![Data model](https://github.com/Roberto121c/Sales_Magement/blob/1304a8f0b772e05e0007618b40b7c77537335a74/image.png)
+
 ### Visualizations 
 
+[![Click for a better analysis](https://github.com/Roberto121c/Sales_Magement/blob/1304a8f0b772e05e0007618b40b7c77537335a74/PB%20Sales%20Overview.PNG)](https://app.powerbi.com/groups/me/reports/38779509-37e6-43d9-b1cd-b209b48d75cf/ReportSection
+)
 
 ### Conclusions
