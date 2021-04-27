@@ -24,19 +24,17 @@ You can see all the SQL queries **[HERE](https://github.com/Roberto121c/Sales_Ma
 
 ![](images/Sales query.PNG)
 
-![](https://github.com/Roberto121c/Sales_Magement/blob/46bd7dddc24a5296182572a02cd36c7d32b1fa57/Sales%20query.PNG)
-
 ### Data model:
 You can see in this image the data model used in Power BI after the data was extracted
 
-![Data model](https://github.com/Roberto121c/Sales_Management/blob/ca8e35e7b5c0d24df33de234535a57afac0650cd/images/Sales%20query.PNG)
+![Data model](images/Data model.png)
 
 ### Visualizations 
 The final product is a 3 pages dashboard. The first one tell us a general perspective about the sales performance while other two focus in customers and products
 
 You can see the final dashboard clicking **[HERE](https://app.powerbi.com/groups/me/reports/38779509-37e6-43d9-b1cd-b209b48d75cf/ReportSection)** or in the image below
 
-[![Click for a better analysis](https://github.com/Roberto121c/Sales_Magement/blob/1304a8f0b772e05e0007618b40b7c77537335a74/PB%20Sales%20Overview.PNG)](https://app.powerbi.com/groups/me/reports/38779509-37e6-43d9-b1cd-b209b48d75cf/ReportSection
+[![Click for a better analysis](images/PB Sales Overview.PNG)](https://app.powerbi.com/groups/me/reports/38779509-37e6-43d9-b1cd-b209b48d75cf/ReportSection
 )
 
 ### Conclusions
