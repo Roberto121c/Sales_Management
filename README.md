@@ -22,14 +22,13 @@ Sales_table, product_table and customer_table show information about sales, prod
 
 You can see all the SQL queries **[HERE](https://github.com/Roberto121c/Sales_Magement)**:
 
-![](/images/Data model.png)
 
 ![](https://github.com/Roberto121c/Sales_Magement/blob/46bd7dddc24a5296182572a02cd36c7d32b1fa57/Sales%20query.PNG)
 
 ### Data model:
 You can see in this image the data model used in Power BI after the data was extracted
 
-![Data model](https://github.com/Roberto121c/Sales_Magement/blob/1304a8f0b772e05e0007618b40b7c77537335a74/image.png)
+![Data model](https://github.com/Roberto121c/Sales_Management/blob/ca8e35e7b5c0d24df33de234535a57afac0650cd/images/Sales%20query.PNG)
 
 ### Visualizations 
 The final product is a 3 pages dashboard. The first one tell us a general perspective about the sales performance while other two focus in customers and products
