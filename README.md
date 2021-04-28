@@ -1,9 +1,14 @@
 # SALES OVERVIEW 
 ### Project overview
-
+* This projec explores different business metrics and how they can be displayed graphically to follow them
+* I explore the relation between sales, budget, costumers and products
+* We can obtain conclusions that will help us to make better marketing campaigns and improve profits
+* The tools used are SQL server and Power BI 
 
 ### Objectives:
-The goal is to build a sales report that shows summarized information about the business´s current situation. The more important indicators are sales, budget, top costumers, and top products:
+The goal is to build a sales report that shows summarized information about the business´s current situation to understand how to make more profits. 
+
+The most important indicators are sales, budget, top customers, and top products:
 
 **Deliverables:**
 
@@ -38,3 +43,6 @@ You can see the final dashboard clicking **[HERE](https://app.powerbi.com/groups
 )
 
 ### Conclusions
+* The best customers are Jordan Turner, Maurice Shan, Janet Munoz, and Lisa Cai
+* The best product is the Mountain-200 Black but all color sell well
+* During July, September, and November 2020 our sales were less than Budget. I need more information to understand why
